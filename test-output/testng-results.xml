@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-08-24T16:36:51 IST" name="Facebook Test Suite" finished-at="2023-08-24T16:37:10 IST" duration-ms="19029">
+    <groups>
+    </groups>
+    <test started-at="2023-08-24T16:36:51 IST" name="Facebook Test" finished-at="2023-08-24T16:37:10 IST" duration-ms="19029">
+      <class name="Details.Email">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:Details.Email@1165b38]" started-at="2023-08-24T16:36:51 IST" name="setUp" finished-at="2023-08-24T16:36:56 IST" duration-ms="4545" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="nameTest()[pri:0, instance:Details.Email@1165b38]" started-at="2023-08-24T16:36:56 IST" name="nameTest" finished-at="2023-08-24T16:37:03 IST" duration-ms="7130" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- nameTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Details.Email@1165b38]" started-at="2023-08-24T16:37:10 IST" name="tearDown" finished-at="2023-08-24T16:37:10 IST" duration-ms="146" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Details.Email -->
+      <class name="Details.password">
+        <test-method signature="passwordTest()[pri:0, instance:Details.password@7e6f74c]" started-at="2023-08-24T16:37:03 IST" name="passwordTest" finished-at="2023-08-24T16:37:10 IST" duration-ms="7161" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- passwordTest -->
+      </class> <!-- Details.password -->
+    </test> <!-- Facebook Test -->
+  </suite> <!-- Facebook Test Suite -->
+</testng-results>
